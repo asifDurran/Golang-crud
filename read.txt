@@ -1,0 +1,18 @@
+//Packages using
+
+// CompileDaemon is compiling tool
+1: go get github.com/githubnemo/CompileDaemon  
+   go install github.com/githubnemo/CompileDaemon  
+
+// ENV file
+2: go get github.com/joho/godotenv
+
+// Gin web framwork
+3: gin-gonic.com
+
+// ORM Library 
+4: gorm.io
+
+// Database
+5: gorm.io/driver/postgres
+
