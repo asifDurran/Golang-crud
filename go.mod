@@ -1,4 +1,4 @@
-module github.com/crud_new
+module github.com/asifDurran/Golang-crud
 
 go 1.17
 

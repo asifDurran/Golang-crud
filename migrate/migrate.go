@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/crud_new/initializers"
-	"github.com/crud_new/models"
+	"github.com/asifDurran/Golang-crud/initializers"
+	"github.com/asifDurran/Golang-crud/models"
 )
 
 func init (){

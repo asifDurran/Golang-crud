@@ -16,3 +16,6 @@
 // Database
 5: gorm.io/driver/postgres
 
+// Create migrate and submmit it to Database
+6: go run migrate/migrate.go
+

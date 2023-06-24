@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/crud_new/controller"
-	"github.com/crud_new/initializers"
+	"github.com/asifDurran/Golang-crud/controller"
+	"github.com/asifDurran/Golang-crud/initializers"
 	"github.com/gin-gonic/gin"
 )
 
