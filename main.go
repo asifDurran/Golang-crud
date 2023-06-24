@@ -17,6 +17,11 @@ func main(){
 			"Message :" :"POng",
 		})
 	})
+	//Create user 
+	r.POST("/signup", controller.CreateUser)
+	r.POST("/login", controller.LoginUser)
+
+
 	r.POST("/post", controller.PostCreate)
 	r.PUT("/post/:id", controller.PostsUpdate)
 
